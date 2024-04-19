@@ -202,7 +202,6 @@
   },
   "textInput1": {
     "container": "CreateUserForm1",
-    "row": 0,
     "height": 1,
     "width": 12
   },
